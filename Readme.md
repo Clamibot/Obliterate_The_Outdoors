@@ -11,7 +11,11 @@ The Player Is Placed On An Island With A Road Network, And Is Given Control Of A
 # **Controls:**
 
 W - Accelerate
+
 S - Brake
+
 A - Steer Left
+
 D - Steer Right
+
 Spacebar - Handbrake
