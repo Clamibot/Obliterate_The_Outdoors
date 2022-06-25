@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90d8588b9b4d4e344b3c6c8da8806a1c, type: 3}
+  m_Name: GPUInstancerShaderBindings
+  m_EditorClassIdentifier: 
+  shaderInstances:
+  - name: Universal Render Pipeline/Lit
+    instancedShader: {fileID: 4800000, guid: 32662ea2549213346ae80c8ba80be97c, type: 3}
+    modifiedDate: 12/06/2021 11:11:39.560
+    isOriginalInstanced: 0
+    extensionCode: 
+  - name: Universal Render Pipeline/Nature/SpeedTree7
+    instancedShader: {fileID: 4800000, guid: cd62d8bf616384a4aaaabb8ec95dc2cd, type: 3}
+    modifiedDate: 12/06/2021 11:11:40.225
+    isOriginalInstanced: 0
+    extensionCode: 
+  - name: Universal Render Pipeline/Nature/SpeedTree7 Billboard
+    instancedShader: {fileID: 4800000, guid: 05bb6249787eb484cbcef91ca88c5bb1, type: 3}
+    modifiedDate: 12/06/2021 11:11:40.798
+    isOriginalInstanced: 0
+    extensionCode: 
+  - name: GPUInstancer/FoliageURP
+    instancedShader: {fileID: 4800000, guid: 82de82b577147a642af099f486b450b2, type: 3}
+    modifiedDate: 12/06/2021 11:11:40.801
+    isOriginalInstanced: 1
+    extensionCode: 
