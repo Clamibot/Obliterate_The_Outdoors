@@ -19,3 +19,7 @@ A - Steer Left
 D - Steer Right
 
 Spacebar - Handbrake
+
+# **Extra Download Instructions:**
+
+After downloading the repository, unzip the CTS_Profile_180424-1317_Albedos.zip file under Obliterate_The_Outdoors\Assets\Procedural Worlds\Gaia\Asset Samples\NatureManufacture\Arrays, and unzip The Big Outdoors.zip under Obliterate_The_Outdoors\Assets\Scenes. Make sure the files contained in those zip files are placed under the same directory the zips are in. Github imposes a 100 MB file size limit, so I had to compress these 2 files since Git LFS will not work for this repository.
